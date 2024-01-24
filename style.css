@@ -65,11 +65,21 @@ nav {
   }
   .podcast{
     width: 100%;
+   
   }
   audio{
     width: 100%;
-    color: #075e54;
+    color: #075e54; border: 1px black dashed;
+    border-radius: 5px;
+    padding: 10px;
+
+    
+
+   
   }
+  .source{
+    background-color: #891818;
+}
   #membres h1{
     color: #035d36;
     display: flex;
